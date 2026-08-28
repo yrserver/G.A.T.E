@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "schema": 1,
+    "scope": "TEST-KEY-001",
+    "status": "revoked",
+    "product": "videomerge",
+    "issued_at": 1787915382,
+    "exp": 1788001782,
+    "nonce": "2f926fd00af4ab3e"
+  },
+  "signature": "dqnsZXrVeYPxymyp2ZEQeOzSocOXmkKj39aKDL6/XJXXHG2wrcs4wTkrkQSlfGTa6BkbSlEub1hdeB8khhdPBA=="
+}
