@@ -2,11 +2,11 @@
   "payload": {
     "schema": 1,
     "scope": "VMRG-S8MWR-3UDE5-GTVDC",
-    "status": "revoked",
+    "status": "approved",
     "product": "videomerge",
-    "issued_at": 1787915817,
-    "exp": 2103275817,
-    "nonce": "3764b7f26848ba5a"
+    "issued_at": 1787915820,
+    "exp": 2103275820,
+    "nonce": "d8d99b23bfb29fe3"
   },
-  "signature": "5ZKdIcjqMVfRcK+SuoEH0JlgLHWobZTdiwR7zriZf9K0AAuUTCxYa9AQf3HvD0CwmzdAIgY0VaAy168XnUgKCw=="
+  "signature": "WfPOCINX5ZM+yoSXIx54UdddX5DaG/4KqAgDZixVl1JGJX0URQ5bgRS36skt1d4yQ/0ytMvpjKqxM7jVM9C+Cg=="
 }
