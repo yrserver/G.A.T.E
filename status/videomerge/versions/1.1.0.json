@@ -4,10 +4,10 @@
     "scope": "1.1.0",
     "status": "approved",
     "product": "videomerge",
-    "issued_at": 1787914838,
-    "exp": 1788001238,
+    "issued_at": 1787915823,
+    "exp": 2103275823,
     "nonce": "521caa7d6b0936a0",
     "version": "1.1.0"
   },
-  "signature": "viBAsp6NtOsWmUV5vNCfwAvudEE9vcZBLEgphXuzs8DgBddX2w+II4ccbmO8CntpKeTo4xAxvpGevFz/5LCBAg=="
+  "signature": "gcxiW7X+jPckG+X9SMJ9nOss2ExTvNzw7o+kth3EgjTjq04kaoaRztTjkCZLzDM9EJ1dwng8gKOc+2/6Z3oeBQ=="
 }
