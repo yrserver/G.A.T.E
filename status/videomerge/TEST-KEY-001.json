@@ -4,9 +4,9 @@
     "scope": "TEST-KEY-001",
     "status": "revoked",
     "product": "videomerge",
-    "issued_at": 1788171615,
-    "exp": 1788173415,
-    "nonce": "37580ebe1a93ed57"
+    "issued_at": 1788173224,
+    "exp": 2103533224,
+    "nonce": "0a36fcdf9e8a5468"
   },
-  "signature": "KdawJBvly4YIjb5B4uX0+V/iFaLoDRG7WmZaixXvty+wjZupetZWRSZNX+0zbi7b4pdAbpOmtrTooqIHdfaJCg=="
+  "signature": "Dsty4NmBTt363px43nPwV1c3RwhW4/o3ELVQGCSJlKBQHA/nx49EdvSsNWS5qHp6as6IH0dzyYxXjHbWfvc0Bg=="
 }
