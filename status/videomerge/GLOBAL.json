@@ -2,11 +2,11 @@
   "payload": {
     "schema": 1,
     "scope": "GLOBAL",
-    "status": "revoked",
+    "status": "approved",
     "product": "videomerge",
-    "issued_at": 1788171068,
-    "exp": 2103531068,
-    "nonce": "f307f760dd2285fa"
+    "issued_at": 1788171131,
+    "exp": 2103531131,
+    "nonce": "b9193881df40eb6e"
   },
-  "signature": "f7Q91KjWuUvIKfQYKOSFxGa+S3bKjelVQA9qfRYELQrTe49sMAc+NyhceJKrPHVb08/dAqssSvTHt84FIfsOBA=="
+  "signature": "yFWC0zs2PAEM4iiWcllYWUaCz5TCjDmkLAneFvyzJIm5qti8qqmxyxUCOjAzBNUU26lVn840UNqil/QMTP+/AA=="
 }
